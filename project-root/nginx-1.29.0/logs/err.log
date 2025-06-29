@@ -1,0 +1,2 @@
+2025/06/29 22:21:34 [notice] 13672#25788: signal process started
+2025/06/29 22:21:34 [emerg] 4216#27580: CreateFile() "C:/Users/MSI/Desktop/projectroot/project-root/nginx-1.28.0/logs/access.log" failed (3: The system cannot find the path specified)
