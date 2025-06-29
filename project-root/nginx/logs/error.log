@@ -1,6 +1,0 @@
-2025/06/29 22:03:24 [emerg] 19424#17428: CreateFile() "C:\Users\MSI\Desktop\projectroot\project-root\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
-2025/06/29 22:05:44 [emerg] 24120#18036: CreateDirectory() "C:\Users\MSI\Desktop\projectroot\project-root\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
-2025/06/29 22:06:10 [emerg] 14764#7604: CreateDirectory() "C:\Users\MSI\Desktop\projectroot\project-root\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
-2025/06/29 22:06:50 [emerg] 21508#17888: CreateDirectory() "C:\Users\MSI\Desktop\projectroot\project-root\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
-2025/06/29 22:07:07 [emerg] 15728#26688: CreateDirectory() "C:\Users\MSI\Desktop\projectroot\project-root\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
-2025/06/29 22:07:19 [emerg] 2888#24688: CreateDirectory() "C:\Users\MSI\Desktop\projectroot\project-root\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)

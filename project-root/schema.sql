@@ -1,12 +1,13 @@
 -- Active: 1749377451012@@127.0.0.1@5432@school
-CREATE DATABASE school;
 
-/c school;
+
 
 CREATE TABLE students (
     id SERIAL PRIMARY KEY,
     name TEXT NOT NULL
 );
+
+
 SELECT * FROM students;
 
 
